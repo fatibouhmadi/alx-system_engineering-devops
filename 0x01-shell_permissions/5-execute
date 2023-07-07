@@ -1,0 +1,2 @@
+#!/bin/bash 
+hcmod u+x hello
